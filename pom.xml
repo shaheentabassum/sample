@@ -30,8 +30,8 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.4.0</muleVersion>
-						<username>Shaheen24</username>
-						<password>Shaheen24</password>
+						<username>Shines24</username>
+						<password>Shines24</password>
 						<applicationName>sample1-9feb</applicationName>
 						<environment>Sandbox</environment>
 						<workerType>MICRO</workerType>
